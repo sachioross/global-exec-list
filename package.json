@@ -1,0 +1,32 @@
+{
+  "name": "global-exec-list",
+  "version": "1.0.0",
+  "description": "A globally installed NodeJS module that will find and list all other globally installed modules along with their executable name. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachioross/global-exec-list.git"
+  },
+  "keywords": [
+    "global",
+    "executable",
+    "list",
+    "global",
+    "executable",
+    "executables",
+    "shell",
+    "commands",
+    "commands",
+    "shell",
+    "bash"
+  ],
+  "author": "Douglas Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sachioross/global-exec-list/issues"
+  },
+  "homepage": "https://github.com/sachioross/global-exec-list#readme"
+}
