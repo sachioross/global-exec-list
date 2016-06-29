@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 function npmls(cb) {
   require('child_process').exec('npm ls -g --depth=0 --json --long',
                                 {maxBuffer: 1024 * 1024},
@@ -15,4 +17,5 @@ function npmls(cb) {
     }
   });
 }
+
 npmls(console.log);

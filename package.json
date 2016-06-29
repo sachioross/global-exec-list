@@ -25,6 +25,9 @@
   ],
   "author": "Douglas Ross",
   "license": "MIT",
+  "bin" : {
+     "lister" : "index.js"
+  },
   "bugs": {
     "url": "https://github.com/sachioross/global-exec-list/issues"
   },
